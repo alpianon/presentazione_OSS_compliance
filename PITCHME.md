@@ -16,7 +16,7 @@
 - ...incorporati in dispositivi tradizionali |
   - telefoni, automobili, televisori, frigoriferi, citofoni, videocamere di sorveglianza ecc. |
 <li class="fragment">i dispositivi <em>embedded</em>  in circolazione sono il 94%, i PC tradizionali solo il 6% (fonte: [www.wsts.org](www.wsts.org), 2010)</li>
-<li class="fragment"> lo sviluppo di software <em>embedded</em>  diventa parte integrante del core business di molte aziende "tradizionali" |
+<li class="fragment"> lo sviluppo di software <em>embedded</em>  diventa parte integrante del core business di molte aziende "tradizionali" </li>
 
 ---
 
@@ -24,7 +24,7 @@
 
 <span class="fragment"> linux <em>embedded</em>  è cresciuto dal 56.2% nel 2012 al 64.7% nel 2017 \(fonte: [www.vdcresearch.com](www.vdcresearch.com)\)</span>
 - è ormai uno standard di fatto |
-- le ragioni del successo? | 
+- le ragioni del successo? |
   - motivazioni tecniche e di efficienza di sviluppo |
   - risparmio sui costi di licenza (non c'è una _license fee_ come nel software proprietario) |
 
@@ -66,7 +66,7 @@
 
 ### Il problema, in concreto
 
-<li class="fragment"> un progetto complesso su piattaforma _<em>embedded</em> _  ha decine e decine di dipendenze da software di terze parti, e include centinaia di pacchetti open source |
+<li class="fragment"> un progetto complesso su piattaforma _<em>embedded</em> _  ha decine e decine di dipendenze da software di terze parti, e include centinaia di pacchetti open source </li>
 - alcune licenze open source non permettono la combinazione o l’incorporazione in software proprietario |
 - altre sì ma solo a determinate condizioni |
 - altre lo consentono senza particolari problemi |
@@ -86,8 +86,8 @@
 ### L'analisi legale di un progetto software
 
 - freertos @fa[arrow-right] analisi generalmente semplice |
-<li class="fragment"> linux _<em>embedded</em> _  @fa[arrow-right] progetti complessi, da analizzare in tre fasi |
-  - ricostruzione del dependency tree |
+<li class="fragment"> linux _<em>embedded</em> _  @fa[arrow-right] progetti complessi, da analizzare in tre fasi
+  - ricostruzione del dependency tree </li>
   - analisi delle dipendenze software ed individuazione delle criticità legali |
   - individuazione degli adempimenti formali, per i componenti senza criticità |
   - soluzione delle criticità legali individuate |
