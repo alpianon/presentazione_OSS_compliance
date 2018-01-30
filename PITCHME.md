@@ -1,14 +1,20 @@
 
-## *Open Source*: una consulenza *smart* per una *compliance* integrata nei processi aziendali
+## *Open Source*:
+
+### una consulenza *smart* per una *compliance* integrata
+<!-- nei processi aziendali  | serve? -->
 
 ---
 
 ## Premessa
+
+<!-- Sempre lasciare una riga vuota tra un paragrafo e l'altro.  -->
 ### La rivoluzione *embedded*
 
+<!-- Perché fai escape delle parentesi? Non serve mica qui -->
 - mini computer dotati di sistema operativo \(linux\)... |
 - ...incorporati in dispositivi tradizionali |
-  - telefoni, automobili, televisori, frigoriferi, citofoni, videocamere di sorveglianza ecc. | 
+  - telefoni, automobili, televisori, frigoriferi, citofoni, videocamere di sorveglianza ecc. |
 <li class="fragment">i dispositivi embedded in circolazione sono il 94%, i PC tradizionali solo il 6% (fonte: [www.wsts.org](www.wsts.org), 2010)</li>
 - lo sviluppo di software embedded diventa parte integrante del core business di molte aziende "tradizionali" |
 
@@ -20,7 +26,7 @@
 - è ormai uno standard di fatto |
 - le ragioni del successo? |
   - motivazioni tecniche e di efficienza di sviluppo |
-  - risparmio sui costi di licenza (non c'è una license fee come nel software proprietario) |
+  - risparmio sui costi di licenza (non c'è una _license fee_ come nel software proprietario) |
 
 ---
 
@@ -28,9 +34,9 @@
 
 - precisi termini da rispettare \(diversi da licenza a licenza\), che possono impedire o limitare: |
   - la combinazione di componenti open source tra loro |
-  - la combinazione di sowftware open source con software proprietario |
-  
----
+  - la combinazione di software open source con software proprietario |
+
++++
 
 ### le conseguenze del mancato rispetto delle licenze
 
@@ -43,19 +49,19 @@
 ### i limiti di una consulenza legale tradizionale
 
 - soluzione di singole questioni legali su singoli progetti: |
-  - rapida obsolescenza dei pareri legali forniti \(evoluzione del contesto tecnologico e di mercato, e anche del prodotto stesso\) |
-  - mancata "metabolizzazione" da parte dell'impresa \(compliance solo su una singola versione di un prodotto, "dimenticata" nelle versioni successive e nei nuovi prodotti\) |
-  
+  - rapida obsolescenza dei pareri forniti \(evoluzione del contesto tecnologico e di mercato, e anche del prodotto stesso\) |
+  - mancata "metabolizzazione" da parte dell'impresa \(_compliance_ solo su una singola versione di un prodotto, "dimenticata" nelle versioni successive e nei nuovi prodotti\) |
+
 ---
-  
+
 ### una consulenza che serve all'azienda
 
 - trasferimento di know-how tecnico-legale |
-- la compliance deve diventare parte integrante dei processi aziendali, sopravvivendo al turn-over del personale |
+- la _compliance_ deve diventare parte integrante dei processi aziendali, sopravvivendo al turn-over del personale |
 - utilizzo di strumenti software adeguati |
-  - per automatizzare alcune fasi del lavoro di compliance |
+  - per automatizzare alcune fasi del lavoro di _compliance_ |
   - per gestire l'open source policy come wiki aziendale in continua evoluzione |
-  
+
 ---
 
 ### Il problema, in concreto
@@ -66,7 +72,7 @@
 - altre lo consentono senza particolari problemi |
 - quasi tutte richiedono comunque l'adempimento di alcuni obblighi "formali" |
 
---- 
+---
 
 ### Una soluzione *smart*
 
@@ -85,7 +91,7 @@
   - analisi delle dipendenze software ed individuazione delle criticità legali |
   - individuazione degli adempimenti formali, per i componenti senza criticità |
   - soluzione delle criticità legali individuate |
-  
+
 ---
 
 ### Strumenti software per l'analisi
@@ -106,7 +112,7 @@
 
 ---
 
-### Di solito partiamo così...
+### Approccio iniziale
 
 - incontro di formazione in azienda |
 - sessione con reparto di R&D \(progetti in corso e organizzazione interna dello sviluppo\) |
@@ -131,5 +137,3 @@ per approfondimenti:
 [Le licenze di software libero (open source)](http://www.techeconomy.it/2015/11/13/licenze-software-libero-open-source/)  
 
 </div>
-
-
