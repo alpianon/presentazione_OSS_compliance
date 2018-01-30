@@ -84,7 +84,7 @@
   - ricostruzione del dependency tree |
   - analisi delle dipendenze software ed individuazione delle criticità legali |
   - individuazione degli adempimenti formali, per i componenti senza criticità |
-  - soluzione delle eventuali criticità legali individuate |
+  - soluzione delle criticità legali individuate |
   
 ---
 
