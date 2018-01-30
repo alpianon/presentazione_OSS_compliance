@@ -29,8 +29,6 @@ That need be changed*/
 /*yes, it must be bug! */
 
 .reveal .slides {
-	margin-top: 1em;
-	margin-bottom: 1em;
 }
 
 .reveal .slides section>* {
