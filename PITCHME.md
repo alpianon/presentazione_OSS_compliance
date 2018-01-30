@@ -116,5 +116,20 @@
 
 **tempi e costi si riducono progressivamente, specie se i progetti condividono parti sostanziali**
 
+---?image=assets/images/thanks.jpg
+
+# Grazie
+<div class="bottom">
+per approfondimenti:  
+
+[Brevi cenni sull'universo (aperto)](http://www.techeconomy.it/2015/09/11/brevi-cenni-sulluniverso-aperto/)  
+
+[Licenze di software libero e modelli di business](http://www.techeconomy.it/2015/12/04/licenze-software-libero-modelli-business/)  
+
+[Una breve storia personale del software libero (open source)](http://www.techeconomy.it/2015/10/14/breve-storia-personale-software-libero-open-source/)  
+
+[Le licenze di software libero (open source)](http://www.techeconomy.it/2015/11/13/licenze-software-libero-open-source/)  
+
+</div>
 
 
