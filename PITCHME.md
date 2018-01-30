@@ -75,6 +75,8 @@
   - le informazioni acquisite nell'analisi dei singoli progetti vanno riversate nella policy |
   - le procedure definite nella policy vanno testate in tempo reale nelle analisi dei progetti in corso |
 
+---
+
 ### L'analisi legale di un progetto software
 
 - freertos: progetti generalmente semplici, privi di dipendenze esterne; analisi su un progetto campione |
@@ -89,13 +91,22 @@
 ### Strumenti software per l'analisi
 
 - dependency tree: binary analisys |
-- individuazione ed analisi dei testi legali nei sorgenti: Fossology \(www.fossology.org\) |
+- individuazione ed analisi dei testi legali nei codici sorgenti: Fossology \(www.fossology.org\) |
 - i sorgenti non escono mai dall'azienda |
 
 ---
 
 ### Open source policy
 
+- procedure per il procurement del software open source: regole e criteri per l'inclusione nei progetti aziendali |
+- non documento statico ma wiki aziendale |
+- in continuo aggiornamento |
+- know-how e memoria storica \(riutilizzo del lavoro già fatto\)|
+- fast-track per i casi più comuni |
+
+---
+
+### Di solito partiamo così...
 
 
 
