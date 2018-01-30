@@ -9,20 +9,20 @@
 ## Premessa
 
 <!-- Sempre lasciare una riga vuota tra un paragrafo e l'altro.  -->
-### La rivoluzione *embedded*
+### La rivoluzione *<em>embedded</em>  *
 
 <!-- Perché fai escape delle parentesi? Non serve mica qui -->
 - mini computer dotati di sistema operativo \(linux\)... |
 - ...incorporati in dispositivi tradizionali |
   - telefoni, automobili, televisori, frigoriferi, citofoni, videocamere di sorveglianza ecc. |
-<li class="fragment">i dispositivi embedded in circolazione sono il 94%, i PC tradizionali solo il 6% (fonte: [www.wsts.org](www.wsts.org), 2010)</li>
-- lo sviluppo di software embedded diventa parte integrante del core business di molte aziende "tradizionali" |
+<li class="fragment">i dispositivi <em>embedded</em>  in circolazione sono il 94%, i PC tradizionali solo il 6% (fonte: [www.wsts.org](www.wsts.org), 2010)</li>
+- lo sviluppo di software <em>embedded</em>  diventa parte integrante del core business di molte aziende "tradizionali" |
 
 ---
 
 ### Il ruolo dell'*open source*
 
-<span class="fragment"> linux embedded è cresciuto dal 56.2% nel 2012 al 64.7% nel 2017 \(fonte: [www.vdcresearch.com](www.vdcresearch.com)\)</span>
+<span class="fragment"> linux <em>embedded</em>  è cresciuto dal 56.2% nel 2012 al 64.7% nel 2017 \(fonte: [www.vdcresearch.com](www.vdcresearch.com)\)</span>
 - è ormai uno standard di fatto |
 - le ragioni del successo? |
   - motivazioni tecniche e di efficienza di sviluppo |
@@ -66,7 +66,7 @@
 
 ### Il problema, in concreto
 
-- un progetto complesso su piattaforma embedded ha decine e decine di dipendenze da software di terze parti, e include centinaia di pacchetti open source |
+- un progetto complesso su piattaforma _<em>embedded</em> _  ha decine e decine di dipendenze da software di terze parti, e include centinaia di pacchetti open source |
 - alcune licenze open source non permettono la combinazione o l’incorporazione in software proprietario |
 - altre sì ma solo a determinate condizioni |
 - altre lo consentono senza particolari problemi |
@@ -85,8 +85,8 @@
 
 ### L'analisi legale di un progetto software
 
-- freertos: analisi generalmente semplice |
-- linux embedded: progetti complessi, da analizzare in tre fasi |
+- freertos @fa[arrow-right] analisi generalmente semplice |
+- linux _<em>embedded</em> _  @fa[arrow-right] progetti complessi, da analizzare in tre fasi |
   - ricostruzione del dependency tree |
   - analisi delle dipendenze software ed individuazione delle criticità legali |
   - individuazione degli adempimenti formali, per i componenti senza criticità |
@@ -96,7 +96,7 @@
 
 ### Strumenti software per l'analisi
 
-- dependency tree: binary analisys |
+- dependency tree: binary analysis |
 - individuazione ed analisi dei testi legali nei codici sorgenti: Fossology \(www.fossology.org\) |
 - i sorgenti non escono mai dall'azienda |
 
