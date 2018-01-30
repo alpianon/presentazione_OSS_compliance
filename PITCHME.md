@@ -105,7 +105,7 @@
 ### Open source policy
 
 - procedure per il procurement del software open source: regole e criteri per l'inclusione nei progetti aziendali |
-- non documento statico ma <strong>wiki</strong> aziendale in continuo aggiornamento |
+- non documento statico ma wiki aziendale in continuo aggiornamento |
 - know-how e memoria storica \(riutilizzo del lavoro già fatto\)|
 - fast-track per i casi più comuni |
 
