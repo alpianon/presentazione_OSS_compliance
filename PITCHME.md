@@ -43,7 +43,7 @@
 ### i limiti di una consulenza legale tradizionale
 
 - soluzione di singole questioni legali su singoli progetti: |
-  - rapida obsolescenza dei pareri legali forniti \(evoluzione del contesto tecnologico e di mercato, e del prodotto stesso\) |
+  - rapida obsolescenza dei pareri legali forniti \(evoluzione del contesto tecnologico e di mercato, e anche del prodotto stesso\) |
   - mancata "metabolizzazione" da parte dell'impresa \(compliance solo su una singola versione di un prodotto, "dimenticata" nelle versioni successive e nei nuovi prodotti\) |
   
 ---
@@ -65,7 +65,9 @@
 - altre sì ma solo a determinate condizioni |
 - altre lo consentono senza particolari problemi |
 - quasi tutte richiedono comunque l'adempimento di alcuni obblighi "formali" |
-  
+
+--- 
+
 ### Una soluzione *smart*
 
 - una consulenza in cui l'analisi dei singoli progetti software è intrecciata con la redazione di un'open source policy come wiki aziendale aperto |
