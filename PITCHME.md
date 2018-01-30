@@ -50,16 +50,16 @@
 
 - soluzione di singole questioni legali su singoli progetti: |
   - rapida obsolescenza dei pareri forniti \(evoluzione del contesto tecnologico e di mercato, e anche del prodotto stesso\) |
-  - mancata "metabolizzazione" da parte dell'impresa \(_compliance_ solo su una singola versione di un prodotto, "dimenticata" nelle versioni successive e nei nuovi prodotti\) |
+  - mancata "metabolizzazione" da parte dell'impresa \(<em>compliance</em> solo su una singola versione di un prodotto, "dimenticata" nelle versioni successive e nei nuovi prodotti\) |
 
 ---
 
 ### una consulenza che serve all'azienda
 
 - trasferimento di know-how tecnico-legale |
-- la _compliance_ deve diventare parte integrante dei processi aziendali, sopravvivendo al turn-over del personale |
+- la <em>compliance</em> deve diventare parte integrante dei processi aziendali, sopravvivendo al turn-over del personale |
 - utilizzo di strumenti software adeguati |
-  - per automatizzare alcune fasi del lavoro di _compliance_ |
+  - per automatizzare alcune fasi del lavoro di <em>compliance</em> |
   - per gestire l'open source policy come wiki aziendale in continua evoluzione |
 
 ---
