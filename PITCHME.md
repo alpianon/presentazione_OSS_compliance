@@ -1,10 +1,10 @@
 
-# Array: consulenza *smart* per una *open source legal compliance* integrata nei processi aziendali
+## Array: consulenza *smart* per una *open source legal compliance* integrata nei processi aziendali
 
 ---
 
 ## Premessa
-### La rivoluzione *embedded* |
+### La rivoluzione *embedded*
 
 - mini computer dotati di sistema operativo (*linux*)... |
 - ...incorporati in dispositivi tradizionali |
