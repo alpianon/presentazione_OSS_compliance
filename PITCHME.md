@@ -1,5 +1,6 @@
 
-## Array: consulenza *smart* per una *open source legal compliance* integrata nei processi aziendali
+## Array: una consulenza *smart* 
+## per una *open source legal compliance* integrata nei processi aziendali
 
 ---
 
