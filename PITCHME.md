@@ -114,7 +114,7 @@
 - analisi del progetto "pilota", stesura in parallelo delle prime parti dell'open source policy |
 - analisi di altri progetti, integrazione dell'open source policy \(sempre WIP\) |
 
-<li class="fragment">**tempi e costi si riducono progressivamente, specie se i progetti condividono parti sostanziali**</li>
+<span class="fragment">**tempi e costi si riducono progressivamente, specie se i progetti condividono parti sostanziali**</span>
 
 ---?image=assets/images/thanks.jpg
 
