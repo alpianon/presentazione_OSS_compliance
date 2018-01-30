@@ -108,7 +108,7 @@
 
 ### Di solito partiamo così...
 
-- incontro di formazione in azienda \(management, sviluppatori\) |
+- incontro di formazione in azienda |
 - sessione con reparto di R&D \(progetti in corso e organizzazione interna dello sviluppo\) |
 - stesura di un piano di lavoro, individuazione di un progetto "pilota" |
 - analisi del progetto "pilota", stesura in parallelo delle prime parti dell'OSS policy |
