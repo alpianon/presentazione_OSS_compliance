@@ -136,3 +136,21 @@ per approfondimenti:
 [Le licenze di software libero (open source)](http://www.techeconomy.it/2015/11/13/licenze-software-libero-open-source/)  
 
 </div>
+
+---
+
+<div class="bottom">
+@fa[copyright fa-red] 2018 - Alberto Pianon; Carlo Piana (some rights reserved)   
+Licenza Creative Commons by-ND-NC 4.0 unported.  
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+
+Presentazione realizzata con [Gitpitch](https://gitpitch.com/) e [Reveal.js][81aa3153]
+</div>
+
+<div class="borderless">
+![Logo](assets/logo_array.png)
+</div>
+
+  [81aa3153]: https://revealjs.com/ "Reveal"
+
