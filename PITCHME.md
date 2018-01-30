@@ -16,7 +16,7 @@
 
 ### Il ruolo dell'*open source*
 
-- linux embedded è cresciuto dal 56.2% nel 2012 al 64.7% nel 2017 \(fonte: www.vdcresearch.com\) |
+<li class="fragment"> linux embedded è cresciuto dal 56.2% nel 2012 al 64.7% nel 2017 \(fonte: [www.vdcresearch.com](www.vdcresearch.com)\)</li>
 - è ormai uno standard di fatto |
 - le ragioni del successo? |
   - motivazioni tecniche e di efficienza di sviluppo |
