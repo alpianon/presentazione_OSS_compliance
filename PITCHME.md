@@ -3,12 +3,10 @@
 
 ### un'introduzione
 
-Carlo Piana
-<span class="fa-red">**Array**</span> studio legale
-https://array.eu
+- questa è una prova |
+- di testo animato |
+- vediamo se alla fine va |
 
+Test
 
-<div class="borderless">
-![Logo](assets/images/logo_array.png)
-</div>
 
