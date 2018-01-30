@@ -67,10 +67,10 @@
 ### Il problema, in concreto
 
 <li class="fragment"> un progetto complesso su piattaforma _<em>embedded</em> _  ha decine e decine di dipendenze da software di terze parti, e include centinaia di pacchetti open source </li>
-- alcune licenze open source non permettono la combinazione o l’incorporazione in software proprietario |
-- altre sì ma solo a determinate condizioni |
-- altre lo consentono senza particolari problemi |
-- quasi tutte richiedono comunque l'adempimento di alcuni obblighi "formali" |
+  - alcune licenze open source non permettono la combinazione o l’incorporazione in software proprietario |
+  - altre sì ma solo a determinate condizioni |
+  - altre lo consentono senza particolari problemi |
+  - quasi tutte richiedono comunque l'adempimento di alcuni obblighi "formali" |
 
 ---
 
