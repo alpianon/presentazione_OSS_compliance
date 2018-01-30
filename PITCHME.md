@@ -9,7 +9,7 @@
 - mini computer dotati di sistema operativo \(linux\)... |
 - ...incorporati in dispositivi tradizionali |
   - telefoni, automobili, televisori, frigoriferi, citofoni, videocamere di sorveglianza ecc. | 
-- i dispositivi embedded in circolazione sono il 94%, i PC tradizionali solo il 6% \(fonte: www.wsts.org, 2010\) |
+<span class="fragment">- i dispositivi embedded in circolazione sono il 94%, i PC tradizionali solo il 6% (fonte: [www.wsts.org](www.wsts.org), 2010)</span>
 - lo sviluppo di software embedded diventa parte integrante del core business di molte aziende "tradizionali" |
 
 ---
