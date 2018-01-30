@@ -6,10 +6,12 @@
 ## Premessa
 ### La rivoluzione *embedded*
 
-<li class="fragment" data-fragment-index="1">mini computer dotati di sistema operativo (*linux*)...</li>
-<li class="fragment" data-fragment-index="2">...incorporati in dispositivi tradizionali</li>
-<li class="fragment" data-fragment-index="3">@fa[mobile-phone fa-lg] @fa[television fa-lg] @fa[snowflake-o fa-lg] @fa[video-camera fa-lg]</li>
-<li class="fragment" data-fragment-index="4">i dispositivi *embedded* in circolazione sono il 94%, i PC tradizionali solo il 6% (fonte: [www.wsts.org](www.wsts.org), 2010)</li>
+- mini computer dotati di sistema operativo \(linux\)... |
+- ...incorporati in dispositivi tradizionali |
+  - telefoni, automobili, televisori, frigoriferi, citofoni, videocamere di sorveglianza ecc. | 
+- i dispositivi embedded in circolazione sono il 94%, i PC tradizionali solo il 6% \(fonte: www.wsts.org, 2010\) |
+- lo svuluppo di software embedded diventa parte integrante del core business di molte aziende "tradizionali" |
+
 
 
 
