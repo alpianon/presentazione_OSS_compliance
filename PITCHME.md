@@ -79,7 +79,7 @@
 
 ### L'analisi legale di un progetto software
 
-- freertos: progetti generalmente semplici, privi di dipendenze esterne; analisi su un progetto campione |
+- freertos: progetti generalmente semplici, basta analisi su progetto "campione" |
 - linux embedded: progetti complessi, da analizzare in tre fasi |
   - ricostruzione del dependency tree |
   - analisi delle dipendenze software ed individuazione delle criticità legali |
@@ -107,6 +107,13 @@
 ---
 
 ### Di solito partiamo così...
+
+1. incontro di formazione in azienda (management, sviluppatori)
+2. sessione libera con reparto di R&D (presentazione progetti e organizzazione dello sviluppo)
+3. stesura di un piano di lavoro, individuando un progetto "pilota" con cui partire
+4. analisi del primo progetto, stesura in parallelo delle prime parti dell'open source policy
+5. analisi di altri progetti, integrazione dell'open source policy (sempre WIP)
+6. tempi e costi si riducono progressivamente, specie se i progetti condividono parti sostanziali
 
 
 
