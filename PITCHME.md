@@ -26,7 +26,7 @@
 - è ormai uno standard di fatto |
 - le ragioni del successo? |
   - motivazioni tecniche e di efficienza di sviluppo |
-  - risparmio sui costi di licenza (non c'è una _license fee_ come nel software proprietario) |
+  - risparmio sui costi di licenza (non c'è una license fee come nel software proprietario) |
 
 ---
 
