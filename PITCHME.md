@@ -9,8 +9,7 @@
   - ciao |
   - prova |
 - e alla fine |
-
-fuori elenco |
+- ci proviamo
 
 
 
