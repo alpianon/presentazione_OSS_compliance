@@ -25,7 +25,7 @@
 ---
 
 ###  *open source*: gratis non vuol dire "senza condizioni"
-.
+
 - precisi termini da rispettare \(diversi da licenza a licenza\), che possono impedire o limitare: |
   - la combinazione di componenti open source tra loro |
   - la combinazione di sowftware open source con software proprietario |
