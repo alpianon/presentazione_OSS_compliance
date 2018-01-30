@@ -60,7 +60,7 @@
 
 ### Il problema, in concreto
 
-- un progetto complesso su piattaforma embedded ha decine e decine di dipendenze da software open source di terze parti |
+- un progetto complesso su piattaforma embedded ha decine e decine di dipendenze da software di terze parti, e include centinaia di pacchetti open source |
 - alcune licenze open source non permettono la combinazione o l’incorporazione in software proprietario |
 - altre sì ma solo a determinate condizioni |
 - altre lo consentono senza particolari problemi |
@@ -72,8 +72,29 @@
 
 - una consulenza in cui l'analisi dei singoli progetti software è intrecciata con la redazione di un'open source policy come wiki aziendale aperto |
 - l'una procede di pari passo con l'altra |
-  - le informazioni acquisite nell'analisi dei singoli progetti vannoo riversate nella policy |
+  - le informazioni acquisite nell'analisi dei singoli progetti vanno riversate nella policy |
   - le procedure definite nella policy vanno testate in tempo reale nelle analisi dei progetti in corso |
+
+### L'analisi legale di un progetto software
+
+- freertos: progetti generalmente semplici, privi di dipendenze esterne; analisi su un progetto campione |
+- linux embedded: progetti complessi, da analizzare in tre fasi |
+  - ricostruzione del dependency tree |
+  - analisi delle dipendenze software ed individuazione delle criticità legali |
+  - individuazione degli adempimenti formali, per i componenti senza criticità |
+  - soluzione delle eventuali criticità legali individuate |
+  
+---
+
+### Strumenti software per l'analisi
+
+- dependency tree: binary analisys |
+- individuazione ed analisi dei testi legali nei sorgenti: Fossology \(www.fossology.org\) |
+- i sorgenti non escono mai dall'azienda |
+
+---
+
+### Open source policy
 
 
 
