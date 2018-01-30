@@ -79,7 +79,7 @@
 
 ### L'analisi legale di un progetto software
 
-- freertos: progetti generalmente semplici, analisi "a campione" |
+- freertos: analisi generalmente semplice |
 - linux embedded: progetti complessi, da analizzare in tre fasi |
   - ricostruzione del dependency tree |
   - analisi delle dipendenze software ed individuazione delle criticità legali |
