@@ -1,6 +1,5 @@
 
-## Array: una consulenza *smart* 
-## per una *open source legal compliance* integrata nei processi aziendali
+## *Open Source*: una consulenza *smart* per una *compliance* integrata nei processi aziendali
 
 ---
 
@@ -49,18 +48,28 @@
   
 ---
   
-### una consulenza che serve all'azienda:
+### una consulenza che serve all'azienda
 
 - trasferimento di know-how tecnico-legale |
 - la compliance deve diventare parte integrante dei processi aziendali, sopravvivendo al turn-over del personale |
 - utilizzo di strumenti software adeguati |
   - per automatizzare alcune fasi del lavoro di compliance |
   - per gestire l'open source policy come wiki aziendale in continua evoluzione |
-
- 
-
   
+---
 
+### Il problema, in concreto
+
+- un progetto complesso su piattaforma embedded ha decine e decine di dipendenze da software open source di terze parti |
+- alcune licenze open source non permettono la combinazione o l’incorporazione in software proprietario |
+- altre sì ma solo a determinate condizioni |
+- altre lo consentono senza particolari problemi |
+- quasi tutte richiedono comunque l'adempimento di alcuni obblighi "formali" |
+  
+### Una soluzione *smart*
+
+- una consulenza in cui l'analisi dei singoli progetti software è intrecciata con la redazione di un'open source policy come wiki aziendale aperto
+- l'una procede di pari passo con l'altra (
 
 
 
