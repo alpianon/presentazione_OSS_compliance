@@ -68,8 +68,10 @@
   
 ### Una soluzione *smart*
 
-- una consulenza in cui l'analisi dei singoli progetti software è intrecciata con la redazione di un'open source policy come wiki aziendale aperto
-- l'una procede di pari passo con l'altra (
+- una consulenza in cui l'analisi dei singoli progetti software è intrecciata con la redazione di un'open source policy come wiki aziendale aperto |
+- l'una procede di pari passo con l'altra |
+  - le informazioni acquisite nell'analisi dei singoli progetti vannoo riversate nella policy |
+  - le procedure definite nella policy vanno testate in tempo reale nelle analisi dei progetti in corso |
 
 
 
