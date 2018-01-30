@@ -150,7 +150,7 @@ Licenza Creative Commons by-ND-NC 4.0 unported.
 </div>
 
 <div class="borderless">
-![Logo](assets/logo_array.png)
+![Logo](/assets/logo_array.png)
 </div>
 
   [81aa3153]: https://revealjs.com/ "Reveal"
