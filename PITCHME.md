@@ -110,8 +110,8 @@
 
 - incontro di formazione in azienda |
 - sessione con reparto di R&D \(progetti in corso e organizzazione interna dello sviluppo\) |
-- stesura di un piano di lavoro, individuazione di un progetto "pilota" |
-- analisi del progetto "pilota", stesura in parallelo delle prime parti dell'OSS policy |
+- piano di lavoro, si individua un progetto "pilota" |
+- analisi del progetto "pilota", in parallelo creazione OSS policy |
 - analisi di altri progetti, integrazione dell'OSS policy \(sempre WIP\) |
 
 <span class="fragment">**tempi e costi si riducono progressivamente, specie se i progetti condividono parti sostanziali**</span>
