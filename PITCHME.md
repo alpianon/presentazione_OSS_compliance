@@ -29,23 +29,33 @@
 - precisi termini da rispettare \(diversi da licenza a licenza\), che possono impedire o limitare: |
   - la combinazione di componenti open source tra loro |
   - la combinazione di sowftware open source con software proprietario |
+  
+---
+
+### le conseguenze del mancato rispetto delle licenze
+
 - il mancato rispetto degli obblighi \(anche formali\) delle licenze open source comporta le medesime conseguenze della violazione delle licenze proprietarie "tradizionali" \(tutela del copyright\): |
   - inibitorie della distribuzione, descrizioni, sequestri, ecc. |
   - è un rischio concreto (è già accaduto molte volte), specie se i prodotti sono distribuiti a livello internazionale |
 
 ---
 
-### L’*Open Source Compliance* come parte integrante dei processi aziendali
+### i limiti di una consulenza legale tradizionale
 
-- i limiti di una consulenza tradizionale \(soluzione di singole questioni legali su singoli progetti\): |
+- soluzione di singole questioni legali su singoli progetti: |
   - rapida obsolescenza dei pareri legali forniti \(evoluzione del contesto tecnologico e di mercato, e del prodotto stesso\) |
   - mancata "metabolizzazione" da parte dell'impresa \(compliance solo su una singola versione di un prodotto, "dimenticata" nelle versioni successive e nei nuovi prodotti\) |
-- una consulenza che serve all'azienda:
-  - trasferimento di know-how tecnico-legale |
-  - compliance parte integrante dei processi aziendali, sopravvivendo al turn-over del personale |
-  - utilizzo di strumenti software adeguati 
-    - automatizzare alcune fasi del lavoro di compliance
-    - open source policy come wiki aziendale
+  
+---
+  
+### una consulenza che serve all'azienda:
+
+- trasferimento di know-how tecnico-legale |
+- la compliance deve diventare parte integrante dei processi aziendali, sopravvivendo al turn-over del personale |
+- utilizzo di strumenti software adeguati |
+  - per automatizzare alcune fasi del lavoro di compliance |
+  - per gestire l'open source policy come wiki aziendale in continua evoluzione |
+
  
 
   
