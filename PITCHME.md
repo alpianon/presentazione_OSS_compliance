@@ -15,7 +15,8 @@
 - mini computer dotati di sistema operativo \(linux\)... |
 - ...incorporati in dispositivi tradizionali |
   - telefoni, automobili, televisori, frigoriferi, citofoni, videocamere di sorveglianza ecc. |
-<li class="fragment">i dispositivi <em>embedded</em>  in circolazione sono il 94%, i PC tradizionali solo il 6% (fonte: [www.wsts.org](www.wsts.org), 2010)</li>
+<li class="fragment">i dispositivi <em>embedded</em>  in circolazione sono il 94%, i PC tradizionali solo il 6% (fonte: [www.wsts.org](https://www.wsts.org), 2010)</li>
+<!-- Ricordati sempre di mettere il protocollo, altrimeni gitpitch lo prende come una sottocartella di sé  -->
 <li class="fragment"> lo sviluppo di software <em>embedded</em>  diventa parte integrante del core business di molte aziende "tradizionali" </li>
 
 ---
