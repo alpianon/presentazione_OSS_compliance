@@ -98,9 +98,9 @@
 
 ### Strumenti software per l'analisi
 
-- dependency tree: binary analysis |
-<li class="fragment"> individuazione ed analisi dei testi legali nei codici sorgenti: [Fossology (http://www.fossology.org)](http://www.fossology.org) | </li>
-- i sorgenti non escono mai dall'azienda |
+<li class="fragment">dependency tree: binary analysis </li>
+<li class="fragment"> individuazione ed analisi dei testi legali nei codici sorgenti: [Fossology (http://www.fossology.org)](http://www.fossology.org) </li>
+<li class="fragment">i sorgenti non escono mai dall'azienda </li>
 
 ---
 
