@@ -115,6 +115,7 @@
 ---
 
 ### Approccio iniziale
+<!-- Questa non andrebbe prima? -->
 
 - incontro di formazione in azienda |
 - sessione con reparto di R&D (progetti in corso e organizzazione interna dello sviluppo) |
