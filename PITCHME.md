@@ -22,7 +22,7 @@
 
 ### Il ruolo dell'*open source*
 
-<span class="fragment"> linux <em>embedded</em>  è cresciuto dal 56.2% nel 2012 al 64.7% nel 2017 \(fonte: [www.vdcresearch.com](www.vdcresearch.com)\)</span>
+<span class="fragment"> linux <em>embedded</em>  è cresciuto dal 56.2% nel 2012 al 64.7% nel 2017 \(fonte: [www.vdcresearch.com](http://www.vdcresearch.com))</span>
 - è ormai uno standard di fatto |
 - le ragioni del successo? |
   - motivazioni tecniche e di efficienza di sviluppo |
@@ -97,7 +97,7 @@
 ### Strumenti software per l'analisi
 
 - dependency tree: binary analysis |
-- individuazione ed analisi dei testi legali nei codici sorgenti: Fossology \(www.fossology.org\) |
+- individuazione ed analisi dei testi legali nei codici sorgenti: Fossology \(<http://www.fossology.org>\) |
 - i sorgenti non escono mai dall'azienda |
 
 ---
@@ -154,4 +154,3 @@ Licenza Creative Commons by-ND-NC 4.0 unported.
 </div>
 
   [81aa3153]: https://revealjs.com/ "Reveal"
-
