@@ -86,12 +86,14 @@
 
 ### L'analisi legale di un progetto software
 
-<li class="fragment"> freertos  @fa[arrow-right fa-green] analisi generalmente semplice </li>
-<li class="fragment"> linux <em>embedded</em>  @fa[arrow-right fa-red] progetti complessi, da analizzare in tre fasi
+<ul class="fragment">
+<li> freertos  @fa[arrow-right fa-green] analisi generalmente semplice </li>
+<li> linux <em>embedded</em>  @fa[arrow-right fa-red] progetti complessi, da analizzare in tre fasi
   - ricostruzione del dependency tree </li>
   - analisi delle dipendenze software ed individuazione delle criticità legali |
   - individuazione degli adempimenti formali, per i componenti senza criticità |
   - soluzione delle criticità legali individuate |
+  </ul>
 <!-- Qui dici tre, ma poi sono quattro? -->
 
 ---
