@@ -12,7 +12,7 @@
 ### La rivoluzione *<em>embedded</em>  *
 
 <!-- Perché fai escape delle parentesi? Non serve mica qui -->
-- mini computer dotati di sistema operativo \(linux\)... |
+- mini computer dotati di sistema operativo (linux)... |
 - ...incorporati in dispositivi tradizionali |
   - telefoni, automobili, televisori, frigoriferi, citofoni, videocamere di sorveglianza ecc. |
 <li class="fragment">i dispositivi <em>embedded</em>  in circolazione sono il 94%, i PC tradizionali solo il 6% (fonte: [www.wsts.org](https://www.wsts.org), 2010)</li>
@@ -23,7 +23,7 @@
 
 ### Il ruolo dell'*open source*
 
-<span class="fragment"> linux <em>embedded</em>  è cresciuto dal 56.2% nel 2012 al 64.7% nel 2017 \(fonte: [www.vdcresearch.com](http://www.vdcresearch.com))</span>
+<span class="fragment"> linux <em>embedded</em>  è cresciuto dal 56.2% nel 2012 al 64.7% nel 2017 (fonte: [www.vdcresearch.com](http://www.vdcresearch.com))</span>
 - è ormai uno standard di fatto |
 - le ragioni del successo? |
   - motivazioni tecniche e di efficienza di sviluppo |
@@ -33,7 +33,7 @@
 
 ###  *open source*: gratis non vuol dire "senza condizioni"
 
-- precisi termini da rispettare \(diversi da licenza a licenza\), che possono impedire o limitare: |
+- precisi termini da rispettare (diversi da licenza a licenza\), che possono impedire o limitare: |
   - la combinazione di componenti open source tra loro |
   - la combinazione di software open source con software proprietario |
 
@@ -41,7 +41,7 @@
 
 ### le conseguenze del mancato rispetto delle licenze
 
-- il mancato rispetto degli obblighi \(anche formali\) delle licenze open source comporta le medesime conseguenze della violazione delle licenze proprietarie "tradizionali" \(tutela del copyright\): |
+- il mancato rispetto degli obblighi (anche formali\) delle licenze open source comporta le medesime conseguenze della violazione delle licenze proprietarie "tradizionali" (tutela del copyright\): |
   - inibitorie della distribuzione, descrizioni, sequestri, ecc. |
   - è un rischio concreto (è già accaduto molte volte), specie se i prodotti sono distribuiti a livello internazionale |
 
@@ -67,8 +67,8 @@
 
 ### Il problema, in concreto
 
-- un progetto complesso su piattaforma _<em>embedded</em> _  ha decine e decine di dipendenze da software di terze parti, e include centinaia di pacchetti open source
-  - alcune licenze open source non permettono la combinazione o l’incorporazione in software proprietario |
+- un progetto complesso su piattaforma _<em>embedded</em>_  ha svariate decine di dipendenze da software di terze parti, include centinaia di pacchetti open source
+  - alcune licenze non permettono la combinazione o l’incorporazione in software proprietario |
   - altre sì ma solo a determinate condizioni |
   - altre lo consentono senza particolari problemi |
   - quasi tutte richiedono comunque l'adempimento di alcuni obblighi "formali" |
@@ -86,19 +86,20 @@
 
 ### L'analisi legale di un progetto software
 
-- freertos @fa[arrow-right] analisi generalmente semplice |
-<li class="fragment"> linux _<em>embedded</em> _  @fa[arrow-right] progetti complessi, da analizzare in tre fasi
+- freertos @fa[arrow-right fa-green] analisi generalmente semplice |
+<li class="fragment"> linux _<em>embedded</em> _  @fa[arrow-right fa-red] progetti complessi, da analizzare in tre fasi
   - ricostruzione del dependency tree </li>
   - analisi delle dipendenze software ed individuazione delle criticità legali |
   - individuazione degli adempimenti formali, per i componenti senza criticità |
   - soluzione delle criticità legali individuate |
+<!-- Qui dici tre, ma poi sono quattro? -->
 
 ---
 
 ### Strumenti software per l'analisi
 
 - dependency tree: binary analysis |
-- individuazione ed analisi dei testi legali nei codici sorgenti: Fossology \(<http://www.fossology.org>\) |
+- individuazione ed analisi dei testi legali nei codici sorgenti: Fossology (<http://www.fossology.org>\) |
 - i sorgenti non escono mai dall'azienda |
 
 ---
@@ -107,7 +108,7 @@
 
 - procedure per il procurement del software open source: regole e criteri per l'inclusione nei progetti aziendali |
 - non documento statico ma wiki aziendale in continuo aggiornamento |
-- know-how e memoria storica \(riutilizzo del lavoro già fatto\)|
+- know-how e memoria storica (riutilizzo del lavoro già fatto)|
 - fast-track per i casi più comuni |
 
 ---
@@ -115,10 +116,10 @@
 ### Approccio iniziale
 
 - incontro di formazione in azienda |
-- sessione con reparto di R&D \(progetti in corso e organizzazione interna dello sviluppo\) |
+- sessione con reparto di R&D (progetti in corso e organizzazione interna dello sviluppo) |
 - piano di lavoro, si individua un progetto "pilota" |
 - analisi del progetto "pilota", in parallelo creazione OSS policy |
-- analisi di altri progetti, integrazione dell'OSS policy \(sempre WIP\) |
+- analisi di altri progetti, integrazione dell'OSS policy (sempre WIP) |
 
 <span class="fragment">**tempi e costi si riducono progressivamente, specie se i progetti condividono parti sostanziali**</span>
 
