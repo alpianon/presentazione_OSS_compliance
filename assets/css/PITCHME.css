@@ -12,7 +12,7 @@ That need be changed*/
 
 .fa-red {color: #cc0000; }
 
-.fa-green {color: darkgreen;}
+.fa-green {color: #00cc00;}
 
 /*This is for logo*/
 
@@ -69,4 +69,3 @@ div.title {position: fixed;
         top: 10px;
         right: 10%;
         max-width: 60%;}
-
