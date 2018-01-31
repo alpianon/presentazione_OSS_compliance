@@ -89,9 +89,9 @@
 - freertos: analisi generalmente semplice |
 - linux embedded: progetti complessi, da analizzare in tre fasi |
    - ricostruzione del dependency tree |
-   - analisi delle dipendenze software ed individuazione delle criticità legali
-   - individuazione degli adempimenti formali, per i componenti senza criticità
-   - soluzione delle criticità legali individuate
+   - analisi delle dipendenze software ed individuazione delle criticità legali |
+   - individuazione degli adempimenti formali, per i componenti senza criticità |
+   - soluzione delle criticità legali individuate |
 
 <!-- Qui dici tre, ma poi sono quattro? -->
 
