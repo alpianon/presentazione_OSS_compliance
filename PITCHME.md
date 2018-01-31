@@ -99,7 +99,7 @@
 ### Strumenti software per l'analisi
 
 - dependency tree: binary analysis |
-- individuazione ed analisi dei testi legali nei codici sorgenti: [Fossology \(http://www.fossology.org\)](http://www.fossology.org) |
+<li class="fragment"> individuazione ed analisi dei testi legali nei codici sorgenti: [Fossology (http://www.fossology.org)](http://www.fossology.org) | </li>
 - i sorgenti non escono mai dall'azienda |
 
 ---
