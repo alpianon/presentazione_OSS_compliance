@@ -126,7 +126,7 @@
 <span class="fragment">**tempi e costi si riducono progressivamente, specie se i progetti condividono parti sostanziali**</span>
 
 ---?image=assets/images/thanks.jpg
-
+@title[Per approfondimenti]
 # Grazie
 <div class="bottom">
 per approfondimenti:  
@@ -142,7 +142,7 @@ per approfondimenti:
 </div>
 
 ---
-
+@title[Copyright e Licenza]
 <div class="bottom">
 @fa[copyright fa-red] 2018 - Alberto Pianon; Carlo Piana (some rights reserved)   
 Licenza Creative Commons by-ND-NC 4.0 unported.  
