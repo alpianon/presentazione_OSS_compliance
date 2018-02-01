@@ -1,2 +1,4 @@
-Quest'opera è distribuita con [Licenza Creative Commons Attribuzione - Non commerciale - Non opere derivate 3.0 Italia](https://creativecommons.org/licenses/by-nc-nd/3.0/it/) 
-(CC BY-NC-ND 3.0 IT)
+(C) 2018 - Alberto Pianon; Carlo Piana (some rights reserved)
+Licenza Creative Commons by-ND-NC 4.0 unported.
+Creative Commons License
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
