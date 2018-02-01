@@ -48,11 +48,11 @@
 ---
 
 ### i limiti di una consulenza legale tradizionale
-
+<span style="font-size=0.8em;">
 - soluzione di singole questioni legali su singoli progetti: |
   - rapida obsolescenza dei pareri forniti (evoluzione del contesto tecnologico e di mercato, e anche del prodotto stesso) |
   - mancata "metabolizzazione" da parte dell'impresa (compliance solo su una singola versione di un prodotto, "dimenticata" nelle versioni successive e nei nuovi prodotti) |
-
+</span>
 +++
 
 ### una consulenza che serve all'azienda
@@ -87,13 +87,11 @@
 ### L'analisi legale di un progetto software
 
 - freertos: analisi generalmente semplice |
-- linux embedded: progetti complessi, da analizzare in tre fasi |
+- linux embedded: progetti complessi, da analizzare in quattro fasi |
    - ricostruzione del dependency tree |
    - analisi delle dipendenze software ed individuazione delle criticità legali |
    - individuazione degli adempimenti formali, per i componenti senza criticità |
    - soluzione delle criticità legali individuate |
-
-<!-- Qui dici tre, ma poi sono quattro? -->
 
 ---
 
