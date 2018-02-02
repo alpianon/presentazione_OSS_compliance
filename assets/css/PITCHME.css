@@ -69,3 +69,8 @@ div.title {position: fixed;
         top: 10px;
         right: 10%;
         max-width: 60%;}
+
+li.fragment {
+  font-size: xx-large;
+}
+
