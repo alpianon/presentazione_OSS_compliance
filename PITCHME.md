@@ -146,9 +146,5 @@ Licenza Creative Commons by-ND-NC 4.0 unported.
 <p>Presentazione realizzata con [Gitpitch](https://gitpitch.com/) e [Reveal.js][81aa3153]</p>
 
 </div>
-<!--
-<div class="borderless">
-![Logo](assets/images/logo_array.png)
-</div>
--->
+
   [81aa3153]: https://revealjs.com/ "Reveal"
