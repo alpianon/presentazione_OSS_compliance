@@ -2,21 +2,17 @@
 ## *Open Source*:
 
 ### una consulenza *smart* per una *compliance* integrata
-<!-- nei processi aziendali  | serve? -->
 
 ---
 
 ## Premessa
 
-<!-- Sempre lasciare una riga vuota tra un paragrafo e l'altro.  -->
 ### La rivoluzione *<em>embedded</em>  *
 
-<!-- Perché fai escape delle parentesi? Non serve mica qui -->
 - mini computer dotati di sistema operativo (linux)... |
 - ...incorporati in dispositivi tradizionali |
   - telefoni, automobili, televisori, frigoriferi, citofoni, videocamere di sorveglianza ecc. |
 <li class="fragment">i dispositivi <em>embedded</em>  in circolazione sono il 94%, i PC tradizionali solo il 6% (fonte: [www.wsts.org](https://www.wsts.org), 2010)</li>
-<!-- Ricordati sempre di mettere il protocollo, altrimeni gitpitch lo prende come una sottocartella di sé  -->
 <li class="fragment"> lo sviluppo di software <em>embedded</em>  diventa parte integrante del core business di molte aziende "tradizionali" </li>
 
 ---
@@ -41,7 +37,7 @@
 
 ### le conseguenze del mancato rispetto delle licenze
 
-- il mancato rispetto degli obblighi (anche formali\) delle licenze open source comporta le medesime conseguenze della violazione delle licenze proprietarie "tradizionali" (tutela del copyright\): |
+- il mancato rispetto degli obblighi (anche formali) delle licenze open source comporta le medesime conseguenze della violazione delle licenze proprietarie "tradizionali" (tutela del copyright): |
   - inibitorie della distribuzione, descrizioni, sequestri, ecc. |
   - è un rischio concreto (è già accaduto molte volte), specie se i prodotti sono distribuiti a livello internazionale |
 
@@ -92,8 +88,6 @@
    - analisi delle dipendenze software ed individuazione delle criticità legali |
    - individuazione degli adempimenti formali, per i componenti senza criticità |
    - soluzione delle criticità legali individuate |
-
-<!-- Qui dici tre, ma poi sono quattro? -->
 
 ---
 
@@ -152,9 +146,9 @@ Licenza Creative Commons by-ND-NC 4.0 unported.
 <p>Presentazione realizzata con [Gitpitch](https://gitpitch.com/) e [Reveal.js][81aa3153]</p>
 
 </div>
-
+<!--
 <div class="borderless">
 ![Logo](assets/images/logo_array.png)
 </div>
-
+-->
   [81aa3153]: https://revealjs.com/ "Reveal"
