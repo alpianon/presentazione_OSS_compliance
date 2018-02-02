@@ -49,9 +49,9 @@
 
 ### i limiti di una consulenza legale tradizionale
 <span style="font-size=0.8em;">
-  soluzione di singole questioni legali su singoli progetti:
-  <li class="fragment">rapida obsolescenza dei pareri forniti (evoluzione del contesto tecnologico e di mercato, e anche del prodotto stesso)</li>
-  <li class="fragment">mancata "metabolizzazione" da parte dell'impresa (compliance solo su una singola versione di un prodotto, "dimenticata" nelle versioni successive e nei nuovi prodotti)</li>
+- soluzione di singole questioni legali su singoli progetti: |
+  - rapida obsolescenza dei pareri forniti (evoluzione del contesto tecnologico e di mercato, e anche del prodotto stesso) |
+  - mancata "metabolizzazione" da parte dell'impresa (compliance solo su una singola versione di un prodotto, "dimenticata" nelle versioni successive e nei nuovi prodotti) |
 </span>
 +++
 
